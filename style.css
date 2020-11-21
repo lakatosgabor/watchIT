@@ -1,0 +1,222 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.nav{
+    padding: 8px;
+    background: black;
+    opacity: 0.9;
+    box-shadow: 5px 5px 10px #c5c2c2, -5px -5px 10px #ffffff;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+a:link{
+    padding: 8px;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 700;
+    border-left: solid;
+}
+
+a:visited{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+a:hover{
+    color: white;
+    font-size: 22px;
+    background: gray;
+}
+
+a:active{
+    color: white;
+    font-size: 14px;
+    background: darkolivegreen;
+}
+
+
+.header{
+    background-image: url('futas.png');
+    height: 700px;
+    width: 100%;
+}
+
+.description{
+    padding: 5px;
+    height: 250px;
+    border-radius: 20px;
+    width: 800px;
+    margin: -450px auto 180px auto;
+    text-align: center;
+    background: rgb(53, 53, 53);
+    opacity: 0.8;
+}
+
+span{
+    opacity: 1;
+    color: white;
+    font-size: 120px;
+    font-weight: 1000;
+}
+
+.describe{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.leiras{
+    padding: 30px;   
+    margin-bottom: 500px;
+}
+
+.card1{
+    padding: 10px;
+    float: left;
+    margin: 10px 0px 10px 10px;
+    text-align: center; 
+    width: 300px;
+    height: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    border: solid;
+}
+
+.card1 img{
+    width: 200px;
+    height: 200px;
+
+}
+
+
+.card2{
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+    text-align: center; 
+    width: 300px;
+    height: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    float: right;
+    border: solid;
+}
+
+.card2 img{
+    width: 180px;
+    height: 180px;
+}
+
+.card3{
+    padding: 10px;
+    margin: 10px 10px 10px 100px;
+    text-align: center; 
+    width: 300px;
+    height: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    float: left;
+    border: solid;
+}
+
+.card3 img{
+    width: 180px;
+    height: 180px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.cikkek{
+    text-align: justify;
+    background: #c5c2c2;
+    padding: 20px;
+}
+
+.kapcsolat{
+    background: #76a3b1;
+    padding: 20px;
+
+}
+
+form{
+    margin: 0px 0px 0px 250px;
+}
+
+input{
+    border: none;
+    width: 700px;
+    height: 40px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+input:hover{
+    border: solid;
+    border-color: darkblue; 
+    width: 700px;
+    height: 40px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+#btn{
+    background: #164b5c;
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#msg{
+    height: 200px;
+}
+
+label{
+    color: black;
+}
+
+.csapat{
+    padding: 10px;
+}
+
+.footer{
+    background: black;
+    color: white;
+    padding: 1px;
+}
+
+
+.footer p{
+    padding-right: 5px;
+    font-weight: 700;
+    text-align: right;
+    font-size: 12px;
+
+}
+
+.csapat p{
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+    text-decoration: small-caps;
+
+}
+
+.footer a:link{
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    border-left: solid;
+}
