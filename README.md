@@ -1,0 +1,1 @@
+Beadandó dolgozat Digitális marketing kurzura. A kurzus kereteib belül elsajátított ismeretek: HTML, CSS, PHP alapismeretek, webszerver használat, (XAMPP, LAMP), marketing tervezés, SEO, PPC kampányok, cikk írás.
